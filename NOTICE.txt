@@ -1,0 +1,5 @@
+# NOTICE
+
+This project is a free and public gift. 
+
+See LICENSE.md and CIVIC_USE.md for dedication and civic trust.
