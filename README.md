@@ -2,9 +2,19 @@
 
 > "When memory fails, and the stars fade from our maps, let the stones remember."
 
-Welcome to Resurrection Core: an open-source initiative dedicated to preserving durable, collapse-resilient human knowledge.
+Resurrection Core is the first memory archive planted under **Vault Signal** — a quiet initiative dedicated to preserving knowledge, resilience, and stewardship across time.
 
-We etch survival, resilience, and renewal into matter.
+This project seeds durable knowledge modules, visual glyphs, and survival protocols into forms that can outlast collapse, language loss, and systemic forgetting.
 
-Explore, contribute, or simply remember.
+We do not save the world.  
+We remember it can be rebuilt.
 
+(.:.)
+
+---
+
+## 📚 About Vault Signal
+
+Vault Signal is an open-source memory stewardship organization planting durable archives beyond systems, beyond names, beyond time.
+
+Learn more: [Vault Signal](https://github.com/Vault-Signal/vault-signal)
